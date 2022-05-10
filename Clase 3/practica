@@ -8,5 +8,5 @@ if  (grados_centigrados_respuesta < 25):
 
 elif  (grados_centigrados_respuesta > 35):
     print("ta juerte la calor")
-else:
+elif (grados_centigrados_respuesta > 24 and grados_centigrados_respuesta < 31 ):
     print("se antoja un pozol")
