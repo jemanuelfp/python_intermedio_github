@@ -14,3 +14,8 @@ from saludos import *
 saludos()
 saludo_nombre("Vane")
 saludo_nombre_completo("Carlos", "Lopez")
+
+# ejemplo de alias
+#from saludos_miguel import saludos as saludo_1
+#from saludos_sarai  import saludos as sadulo_2
+#
