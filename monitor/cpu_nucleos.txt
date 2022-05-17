@@ -1,0 +1,5 @@
+informacion del sistema
+Nucleos del CPU => 16
+Frecuencia del CPU => scpufreq(current=3200.0, min=0.0, max=3200.0)
+Disco de uso => sdiskusage(total=226343251968, used=197756182528, free=28587069440, percent=87.4)
+Memoria virtual => svmem(total=8517513216, available=1326063616, percent=84.4, used=7191449600, free=1326063616)
